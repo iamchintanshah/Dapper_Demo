@@ -1,0 +1,6 @@
+LearnDapper.API/bin
+LearnDapper.API/obj
+LearnDapper.Data/bin
+LearnDapper.Data/obj
+LearnDotnet.Domain/bin
+LearnDotnet.Domain/obj
